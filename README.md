@@ -45,7 +45,8 @@ readr::read_csv("00_data/crude_imports_by_month_year_country_type_of_crude.csv")
 
 What made this project especially challenging is the inconsistent
 presentation of data from PDF - PDF and the very large amount of missing
-values in many of the cells.
+values in many of the cells. See the pdf_scraping_scratchpad/ for an
+insight into just how complex this undertaking was.
 
 But with advanced use of regular expressions and tidyverse functions the
 data is extracted to a very high degree of accuracy.
