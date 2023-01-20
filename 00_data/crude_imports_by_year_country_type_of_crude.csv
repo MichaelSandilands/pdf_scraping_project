@@ -1,0 +1,987 @@
+year,region,country,type_of_crude,volume,total_value,cif_price,prop_of_total_imports
+2005,Middle East,Abu Dhabi,Murban,923,61738,66.88,2e-4
+2005,Middle East,Iran,Other Iran Crude,45991,2253597,49,0.0102
+2005,Middle East,Iran,Iranian Heavy,149418,7161550,47.93,0.0331
+2005,Middle East,Iran,Iranian Light,56830,2767048,48.69,0.0126
+2005,Middle East,Iraq,Basrah Light,64850,3073713,47.4,0.0144
+2005,Middle East,Iraq,Kirkuk,5976,326548,54.64,0.0013
+2005,Middle East,Iraq,Other Iraq Crude,20541,979905,47.71,0.0046
+2005,Middle East,Kuwait,Kuwait Blend,54994,2614594,47.54,0.012199999999999999
+2005,Middle East,Saudi Arabia,Arab Light,267836,13750412,51.34,0.0594
+2005,Middle East,Saudi Arabia,Arab Medium,56939,2777912,48.79,0.0126
+2005,Middle East,Saudi Arabia,Other Saudi Arabia Crude,730,38648,52.91,2e-4
+2005,Middle East,Saudi Arabia,Arab Heavy,82703,3828118,46.29,0.0183
+2005,Middle East,Saudi Arabia,Berri (Extra Light),30418,1607614,52.85,0.0067
+2005,Middle East,Syria,Souedie,26033,1143088,43.91,0.0058
+2005,Middle East,Syria,Syria Light,41128,2181439,53.04,0.0091
+2005,Africa,Algeria,Saharan Blend,134507,7400495,55.02,0.0298
+2005,Africa,Algeria,Other Algeria Crude,24330,1367990,56.23,0.0054
+2005,Africa,Angola,Cabinda,31378,1695053,54.02,0.006999999999999999
+2005,Africa,Angola,Other Angola Crude,16818,888980,52.86,0.0037
+2005,Africa,Cameroon,Cameroon Crude,23465,1203812,51.3,0.0052
+2005,Africa,Congo,Congo Crude,4581,248558,54.26,0.001
+2005,Africa,Congo (DR),Congo (DR) Crude,1007,51444,51.08,2e-4
+2005,Africa,Egypt,Heavy (<30o API),4800,229493,47.81,0.0011
+2005,Africa,Egypt,Medium/Light (30-40o),6105,325236,53.27,0.0014000000000000002
+2005,Africa,Gabon,Other Gabon Crude,4532,205060,45.25,0.001
+2005,Africa,Libya,Medium (30-40o),221675,11885096,53.61,0.049100000000000005
+2005,Africa,Libya,Heavy (<30o API),19265,967524,50.22,0.0043
+2005,Africa,Libya,Light (>40o),130970,7160789,54.67,0.028999999999999998
+2005,Africa,Nigeria,Medium (<33o),24194,1370401,56.64,0.0054
+2005,Africa,Nigeria,Light (33-45o),113096,6441190,56.95,0.025099999999999997
+2005,Africa,Nigeria,Condensate (>45o),6624,337971,51.02,0.0015
+2005,Africa,Other African Countries,Other Africa Crude,36352,1869525,51.43,0.008100000000000001
+2005,Africa,Tunisia,Tunisia Crude,9069,463520,51.11,0.002
+2005,Australia,Papua New Guinea,Papua New Guinea Crude,3246,187063,57.63,7.000000000000001e-4
+2005,FSU,Azerbaijan,Azerbaijan Crude,37414,2106460,56.3,0.0083
+2005,FSU,Azerbaijan,Azeri Light,10695,585556,54.75,0.0024
+2005,FSU,Kazakhstan,Kazakhstan Crude,194231,10369711,53.39,0.0431
+2005,FSU,Other FSU countries,Other FSU Crude,61729,3096321,50.16,0.0137
+2005,FSU,Russian Federation,Other Russian Fed. Crude,585557,29185630,49.84,0.1298
+2005,FSU,Russian Federation,Urals,719671,36052944,50.1,0.15960000000000002
+2005,FSU,Ukraine,Ukraine Crude,1126,54892,48.73,2e-4
+2005,Europe,Denmark,Denmark Crude,97678,5211189,53.35,0.0217
+2005,Europe,Norway,Statfjord,126633,6969705,55.04,0.0281
+2005,Europe,Norway,Ekofisk,166410,9116543,54.78,0.0369
+2005,Europe,Norway,Other Norway Crude,243082,13296489,54.7,0.053899999999999997
+2005,Europe,Norway,Oseberg,82387,4617097,56.04,0.0183
+2005,Europe,Norway,Gullfaks,87695,4862429,55.45,0.0194
+2005,Europe,Other European countries,Other Europe Crude,22272,1176865,52.84,0.0049
+2005,Europe,United Kingdom,Flotta,4923,254733,51.74,0.0011
+2005,Europe,United Kingdom,Forties,83497,4577770,54.83,0.018500000000000003
+2005,Europe,United Kingdom,Brent Blend,20126,1097898,54.55,0.0045000000000000005
+2005,Europe,United Kingdom,Other UK Crude,110276,5640683,51.15,0.024399999999999998
+2005,America,Brazil,Brazil,18218,809230,44.42,0.004
+2005,America,Mexico,Olmeca,2142,131786,61.52,5e-4
+2005,America,Mexico,Isthmus,10168,531694,52.29,0.0023
+2005,America,Mexico,Maya,63715,2631326,41.3,0.0141
+2005,America,Other Latin America countries,Other Latin America Crude,401,13770,34.32,1e-4
+2005,America,United States,Other US Crude,681,41057,60.26,2e-4
+2005,America,Venezuela,Medium (22-30o),10922,498877,45.68,0.0024
+2005,America,Venezuela,Heavy (17-22o),3817,164362,43.06,8e-4
+2005,America,Venezuela,Light (>30o),4775,277361,58.08,0.0011
+2005,America,Venezuela,Extra Heavy (<17o),18823,539305,28.65,0.0042
+2006,Middle East,Abu Dhabi,Umm Shaif,1011,63972,63.26,2e-4
+2006,Middle East,Abu Dhabi,Lower Zakum,4084,269866,66.08,9e-4
+2006,Middle East,Abu Dhabi,Murban,4310,284820,66.08,0.001
+2006,Middle East,Abu Dhabi,Upper Zakum,2036,115845,56.91,5e-4
+2006,Middle East,Iran,Other Iran Crude,41593,2494812,59.98,0.009300000000000001
+2006,Middle East,Iran,Iranian Heavy,130119,7740739,59.49,0.028999999999999998
+2006,Middle East,Iran,Iranian Light,76905,4865848,63.27,0.0171
+2006,Middle East,Iraq,Basrah Light,92050,5424634,58.93,0.020499999999999997
+2006,Middle East,Iraq,Kirkuk,1234,74372,60.29,3e-4
+2006,Middle East,Iraq,Other Iraq Crude,24040,1391178,57.87,0.0054
+2006,Middle East,Kuwait,Kuwait Blend,51059,3017310,59.09,0.011399999999999999
+2006,Middle East,Neutral Zone,Offshore (Khafji/Hout),1182,70334,59.5,3e-4
+2006,Middle East,Oman,Oman,1189,69247,58.22,3e-4
+2006,Middle East,Saudi Arabia,Arab Light,242255,14927011,61.62,0.054000000000000006
+2006,Middle East,Saudi Arabia,Arab Medium,48791,2882029,59.07,0.0109
+2006,Middle East,Saudi Arabia,Other Saudi Arabia Crude,599,33625,56.16,1e-4
+2006,Middle East,Saudi Arabia,Arab Heavy,63150,3632585,57.52,0.0141
+2006,Middle East,Saudi Arabia,Berri (Extra Light),15793,1020649,64.63,0.0034999999999999996
+2006,Middle East,Syria,Souedie,29759,1650471,55.46,0.0066
+2006,Middle East,Syria,Syria Light,31506,2058918,65.35,0.006999999999999999
+2006,Middle East,Yemen,Other Yemen Crude,440,32120,73,1e-4
+2006,Middle East,Yemen,Marib Light,196,14835,75.65,0
+2006,Africa,Algeria,Saharan Blend,93978,6214242,66.12,0.0209
+2006,Africa,Algeria,Other Algeria Crude,16166,1087236,67.25,0.0036
+2006,Africa,Angola,Cabinda,25195,1635338,64.91,0.005600000000000001
+2006,Africa,Angola,Other Angola Crude,10163,620625,61.07,0.0023
+2006,Africa,Cameroon,Cameroon Crude,28111,1813228,64.5,0.0063
+2006,Africa,Congo,Congo Crude,3647,228998,62.78,8e-4
+2006,Africa,Egypt,Heavy (<30o API),16387,906915,55.34,0.0037
+2006,Africa,Egypt,Medium/Light (30-40o),11216,734415,65.48,0.0025
+2006,Africa,Gabon,Rabi/Rabi Kounga,599,38602,64.47,1e-4
+2006,Africa,Gabon,Other Gabon Crude,7252,424949,58.6,0.0016
+2006,Africa,Libya,Medium (30-40o),205264,13389443,65.23,0.0458
+2006,Africa,Libya,Heavy (<30o API),18209,1098026,60.3,0.0040999999999999995
+2006,Africa,Libya,Light (>40o),156316,10240422,65.51,0.0348
+2006,Africa,Nigeria,Medium (<33o),34519,2278719,66.01,0.0077
+2006,Africa,Nigeria,Light (33-45o),107678,7428720,68.99,0.024
+2006,Africa,Nigeria,Condensate (>45o),3598,244559,67.96,8e-4
+2006,Africa,Other African Countries,Other Africa Crude,39769,2510684,63.13,0.0089
+2006,Africa,Tunisia,Tunisia Crude,9569,609639,63.71,0.0021
+2006,Asia,Other Asian Countries,Other Asia Crude,218,17365,79.66,0
+2006,Asia,VietNam,Bach Ho,2001,128181,64.05,4e-4
+2006,Asia,VietNam,Other Vietnam Crude,987,68039,68.93,2e-4
+2006,Australia,Australia,Gippsland,600,43373,72.33,1e-4
+2006,Australia,Australia,Other Australia Crude,728,45329,62.24,2e-4
+2006,Australia,Papua New Guinea,Papua New Guinea Crude,4097,263195,64.23,9e-4
+2006,FSU,Azerbaijan,Azerbaijan Crude,75655,4974009,65.75,0.0169
+2006,FSU,Azerbaijan,Azeri Light,14056,923383,65.69,0.0031
+2006,FSU,Kazakhstan,Kazakhstan Crude,200511,13107103,65.37,0.0447
+2006,FSU,Other FSU countries,Other FSU Crude,56402,3486062,61.81,0.0126
+2006,FSU,Russian Federation,Other Russian Fed. Crude,578183,35080224,60.67,0.12890000000000001
+2006,FSU,Russian Federation,Urals,703747,42965772,61.05,0.15689999999999998
+2006,FSU,Ukraine,Ukraine Crude,860,55239,64.21,2e-4
+2006,Europe,Denmark,Denmark Crude,88085,5735972,65.12,0.0196
+2006,Europe,Norway,Statfjord,97061,6443771,66.39,0.0216
+2006,Europe,Norway,Ekofisk,181622,11911372,65.58,0.0405
+2006,Europe,Norway,Other Norway Crude,238587,15543808,65.15,0.053200000000000004
+2006,Europe,Norway,Oseberg,78562,5197593,66.16,0.0175
+2006,Europe,Norway,Gullfaks,80887,5434802,67.19,0.018000000000000002
+2006,Europe,Other European countries,Other Europe Crude,16759,1036955,61.87,0.0037
+2006,Europe,United Kingdom,Flotta,5608,360411,64.27,0.0013
+2006,Europe,United Kingdom,Forties,87158,5767151,66.17,0.0194
+2006,Europe,United Kingdom,Brent Blend,29894,1912405,63.97,0.0067
+2006,Europe,United Kingdom,Other UK Crude,123501,7664429,62.06,0.0275
+2006,America,Brazil,Brazil,20284,1099026,54.18,0.0045000000000000005
+2006,America,Canada,Light Sweet (>30o API),1024,61120,59.71,2e-4
+2006,America,Colombia,Other Colombia Crude,1050,59466,56.63,2e-4
+2006,America,Ecuador,Other Ecuador Crude,1239,66812,53.93,3e-4
+2006,America,Mexico,Olmeca,5264,354361,67.31,0.0012
+2006,America,Mexico,Isthmus,2297,134466,58.54,5e-4
+2006,America,Mexico,Maya,58223,3099807,53.24,0.013000000000000001
+2006,America,Other Latin America countries,Other Latin America Crude,271,9537,35.18,1e-4
+2006,America,United States,Other US Crude,7075,477749,67.53,0.0016
+2006,America,Venezuela,Medium (22-30o),19141,1070077,55.91,0.0043
+2006,America,Venezuela,Heavy (17-22o),2964,143326,48.36,7.000000000000001e-4
+2006,America,Venezuela,Light (>30o),23555,1449576,61.54,0.0053
+2006,America,Venezuela,Extra Heavy (<17o),18472,662771,35.88,0.0040999999999999995
+2006,Other,Other Countries,Other crudes,8353,552432,66.13,0.0019
+2007,Middle East,Abu Dhabi,Other Abu Dhabi Crude,2280,195883,85.93,5e-4
+2007,Middle East,Abu Dhabi,Lower Zakum,2132,132938,62.35,5e-4
+2007,Middle East,Abu Dhabi,Murban,5983,406367,67.92,0.0014000000000000002
+2007,Middle East,Abu Dhabi,Upper Zakum,500,44755,89.51,1e-4
+2007,Middle East,Dubai,Dubai,494,37906,76.77,1e-4
+2007,Middle East,Iran,Other Iran Crude,41448,2681209,64.69,0.009399999999999999
+2007,Middle East,Iran,Iranian Heavy,128897,8709939,67.57,0.029300000000000003
+2007,Middle East,Iran,Iranian Light,67968,4597612,67.64,0.0154
+2007,Middle East,Iraq,Basrah Light,103144,7046796,68.32,0.023399999999999997
+2007,Middle East,Iraq,Kirkuk,31052,2511217,80.87,0.0070999999999999995
+2007,Middle East,Iraq,Other Iraq Crude,8684,548090,63.11,0.002
+2007,Middle East,Kuwait,Kuwait Blend,46327,3094837,66.8,0.0105
+2007,Middle East,Neutral Zone,Onshore,473,44628,94.35,1e-4
+2007,Middle East,Oman,Oman,631,56170,89.02,1e-4
+2007,Middle East,Other Middle East Countries,Other Middle East Crude,2084,173925,83.46,5e-4
+2007,Middle East,Saudi Arabia,Arab Light,215182,15091152,70.13,0.0489
+2007,Middle East,Saudi Arabia,Arab Medium,18996,1251589,65.89,0.0043
+2007,Middle East,Saudi Arabia,Other Saudi Arabia Crude,1957,109391,55.9,4e-4
+2007,Middle East,Saudi Arabia,Arab Heavy,41594,2717177,65.33,0.009399999999999999
+2007,Middle East,Saudi Arabia,Berri (Extra Light),11958,824076,68.92,0.0027
+2007,Middle East,Syria,Souedie,28345,1805505,63.7,0.0064
+2007,Middle East,Syria,Syria Light,25590,1858963,72.64,0.0058
+2007,Middle East,Yemen,Other Yemen Crude,1265,96683,76.43,3e-4
+2007,Middle East,Yemen,Marib Light,1336,113150,84.66,3e-4
+2007,Africa,Algeria,Saharan Blend,68724,5204909,75.74,0.015600000000000001
+2007,Africa,Algeria,Other Algeria Crude,17685,1338113,75.66,0.004
+2007,Africa,Angola,Cabinda,34529,2364556,68.48,0.0078000000000000005
+2007,Africa,Angola,Other Angola Crude,44931,3291702,73.26,0.0102
+2007,Africa,Cameroon,Cameroon Crude,26199,1817754,69.38,0.0059
+2007,Africa,Congo,Congo Crude,4104,347902,84.78,9e-4
+2007,Africa,Egypt,Heavy (<30o API),10117,593208,58.63,0.0023
+2007,Africa,Egypt,Medium/Light (30-40o),8717,611463,70.15,0.002
+2007,Africa,Gabon,Rabi/Rabi Kounga,695,51833,74.55,2e-4
+2007,Africa,Gabon,Other Gabon Crude,7618,555581,72.93,0.0017000000000000001
+2007,Africa,Libya,Medium (30-40o),232999,17000200,72.96,0.0529
+2007,Africa,Libya,Heavy (<30o API),25217,1724705,68.4,0.005699999999999999
+2007,Africa,Libya,Light (>40o),153905,11259212,73.16,0.0349
+2007,Africa,Nigeria,Medium (<33o),24994,1967205,78.71,0.005699999999999999
+2007,Africa,Nigeria,Light (33-45o),83390,6263163,75.11,0.0189
+2007,Africa,Nigeria,Condensate (>45o),3341,261508,78.28,8e-4
+2007,Africa,Other African Countries,Other Africa Crude,44626,3326473,74.54,0.0101
+2007,Africa,Tunisia,Tunisia Crude,16596,1190569,71.74,0.0038
+2007,Asia,Brunei Darussalam,Seria Light,1269,81194,63.98,3e-4
+2007,Asia,Malaysia,Other Malaysia Crude,9657,849140,87.93,0.0022
+2007,Asia,Other Asian Countries,Other Asia Crude,2326,217820,93.63,5e-4
+2007,Australia,Papua New Guinea,Papua New Guinea Crude,4618,320423,69.39,0.001
+2007,FSU,Azerbaijan,Azerbaijan Crude,116785,8800046,75.35,0.0265
+2007,FSU,Azerbaijan,Azeri Light,14678,1033492,70.41,0.0033
+2007,FSU,Kazakhstan,Kazakhstan Crude,211322,15485141,73.28,0.048
+2007,FSU,Other FSU countries,Other FSU Crude,43582,2822274,64.76,0.009899999999999999
+2007,FSU,Russian Federation,Other Russian Fed. Crude,531727,36900721,69.4,0.1207
+2007,FSU,Russian Federation,Urals,753585,51890751,68.86,0.1711
+2007,FSU,Ukraine,Ukraine Crude,3061,237366,77.54,7.000000000000001e-4
+2007,Europe,Denmark,Denmark Crude,76003,5542900,72.93,0.0173
+2007,Europe,Norway,Statfjord,92269,6811494,73.82,0.0209
+2007,Europe,Norway,Ekofisk,156772,11459669,73.1,0.0356
+2007,Europe,Norway,Other Norway Crude,222847,16473601,73.92,0.0506
+2007,Europe,Norway,Oseberg,67556,4985194,73.79,0.015300000000000001
+2007,Europe,Norway,Gullfaks,87389,6578799,75.28,0.019799999999999998
+2007,Europe,Other European countries,Other Europe Crude,18988,1279032,67.36,0.0043
+2007,Europe,United Kingdom,Flotta,8922,683934,76.66,0.002
+2007,Europe,United Kingdom,Forties,91067,6563933,72.08,0.0207
+2007,Europe,United Kingdom,Brent Blend,18469,1387412,75.12,0.0042
+2007,Europe,United Kingdom,Other UK Crude,127789,9033392,70.69,0.028999999999999998
+2007,America,Brazil,Brazil,26853,1667141,62.08,0.0060999999999999995
+2007,America,Colombia,Other Colombia Crude,980,62975,64.28,2e-4
+2007,America,Mexico,Olmeca,3176,202513,63.75,7.000000000000001e-4
+2007,America,Mexico,Isthmus,7942,514911,64.83,0.0018
+2007,America,Mexico,Maya,52252,3302173,63.2,0.011899999999999999
+2007,America,Other Latin America countries,Other Latin America Crude,412,19780,48.01,1e-4
+2007,America,United States,Other US Crude,2387,147056,61.6,5e-4
+2007,America,Venezuela,Medium (22-30o),15266,1014385,66.45,0.0034999999999999996
+2007,America,Venezuela,Heavy (17-22o),5273,327797,62.17,0.0012
+2007,America,Venezuela,Light (>30o),12521,807269,64.47,0.0028000000000000004
+2007,America,Venezuela,Extra Heavy (<17o),19899,981520,49.32,0.0045000000000000005
+2008,Middle East,Abu Dhabi,Lower Zakum,1007,43655,43.35,2e-4
+2008,Middle East,Abu Dhabi,Murban,4022,315960,78.56,9e-4
+2008,Middle East,Dubai,Dubai,457,40958,89.62,1e-4
+2008,Middle East,Iran,Other Iran Crude,37158,3519828,94.73,0.0084
+2008,Middle East,Iran,Iranian Heavy,110951,10590904,95.46,0.025
+2008,Middle East,Iran,Iranian Light,57028,5409034,94.85,0.0128
+2008,Middle East,Iraq,Basrah Light,66951,6096972,91.07,0.0151
+2008,Middle East,Iraq,Kirkuk,70944,6844676,96.48,0.016
+2008,Middle East,Iraq,Other Iraq Crude,8984,839654,93.46,0.002
+2008,Middle East,Kuwait,Kuwait Blend,43473,4123891,94.86,0.0098
+2008,Middle East,Neutral Zone,Offshore (Khafji/Hout),156,5644,36.18,0
+2008,Middle East,Oman,Oman,1483,132957,89.65,3e-4
+2008,Middle East,Other Middle East Countries,Other Middle East Crude,7230,807679,111.71,0.0016
+2008,Middle East,Qatar,Qatar Marine,206,24206,117.78,0
+2008,Middle East,Saudi Arabia,Arab Light,220080,21277240,96.68,0.0495
+2008,Middle East,Saudi Arabia,Arab Medium,19252,1845497,95.86,0.0043
+2008,Middle East,Saudi Arabia,Other Saudi Arabia Crude,1676,177217,105.77,4e-4
+2008,Middle East,Saudi Arabia,Arab Heavy,31484,2997629,95.21,0.0070999999999999995
+2008,Middle East,Saudi Arabia,Berri (Extra Light),10301,971695,94.33,0.0023
+2008,Middle East,Syria,Souedie,31703,2699186,85.14,0.0070999999999999995
+2008,Middle East,Syria,Syria Light,19367,1817089,93.83,0.0044
+2008,Africa,Algeria,Saharan Blend,87826,8669159,98.71,0.019799999999999998
+2008,Africa,Algeria,Other Algeria Crude,30861,3171927,102.78,0.0069
+2008,Africa,Angola,Cabinda,4704,430486,91.51,0.0011
+2008,Africa,Angola,Other Angola Crude,102421,9723516,94.94,0.0231
+2008,Africa,Cameroon,Cameroon Crude,18587,1747458,94.02,0.0042
+2008,Africa,Congo,Congo Crude,8489,731796,86.21,0.0019
+2008,Africa,Egypt,Heavy (<30o API),5604,440418,78.59,0.0013
+2008,Africa,Egypt,Medium/Light (30-40o),21866,1917656,87.7,0.0049
+2008,Africa,Egypt,Egyptian Heavy (<30o),5958,497990,83.58,0.0013
+2008,Africa,Gabon,Rabi/Rabi Kounga,384,35082,91.35,1e-4
+2008,Africa,Gabon,Other Gabon Crude,9797,882739,90.11,0.0022
+2008,Africa,Libya,Medium (30-40o),241744,23360153,96.63,0.054400000000000004
+2008,Africa,Libya,Heavy (<30o API),19142,1794205,93.73,0.0043
+2008,Africa,Libya,Light (>40o),167091,16587017,99.27,0.037599999999999995
+2008,Africa,Nigeria,Medium (<33o),51800,5418430,104.6,0.011699999999999999
+2008,Africa,Nigeria,Light (33-45o),107688,10758064,99.9,0.0242
+2008,Africa,Nigeria,Condensate (>45o),5954,495984,83.31,0.0013
+2008,Africa,Other African Countries,Other Africa Crude,67611,6959470,102.93,0.0152
+2008,Africa,Tunisia,Tunisia Crude,11817,1140233,96.49,0.0027
+2008,Asia,Other Asian Countries,Other Asia Crude,768,75080,97.8,2e-4
+2008,Australia,Australia,Other Australia Crude,277,30966,111.79,1e-4
+2008,Australia,Papua New Guinea,Papua New Guinea Crude,1804,162771,90.25,4e-4
+2008,FSU,Azerbaijan,Azerbaijan Crude,126568,12987746,102.61,0.0285
+2008,FSU,Kazakhstan,Kazakhstan Crude,213349,21471049,100.64,0.048
+2008,FSU,Other FSU countries,Other FSU Crude,50710,3848043,75.88,0.011399999999999999
+2008,FSU,Russian Federation,Other Russian Fed. Crude,544762,52080923,95.6,0.1226
+2008,FSU,Russian Federation,Urals,666174,64190470,96.36,0.15
+2008,FSU,Ukraine,Ukraine Crude,1297,143936,111.02,3e-4
+2008,Europe,Denmark,Denmark Crude,59334,5862667,98.81,0.0134
+2008,Europe,Norway,Statfjord,88271,9162572,103.8,0.0199
+2008,Europe,Norway,Ekofisk,145990,14393716,98.59,0.0329
+2008,Europe,Norway,Other Norway Crude,243785,23712501,97.27,0.054900000000000004
+2008,Europe,Norway,Oseberg,64901,6415246,98.85,0.0146
+2008,Europe,Norway,Gullfaks,64611,6706569,103.8,0.014499999999999999
+2008,Europe,Other European countries,Other Europe Crude,101365,9351235,92.25,0.022799999999999997
+2008,Europe,United Kingdom,Flotta,11953,1065166,89.11,0.0027
+2008,Europe,United Kingdom,Forties,62083,6249835,100.67,0.013999999999999999
+2008,Europe,United Kingdom,Brent Blend,19756,2003994,101.43,0.0044
+2008,Europe,United Kingdom,Other UK Crude,115551,10970901,94.94,0.026000000000000002
+2008,America,Brazil,Brazil,19866,1883032,94.79,0.0045000000000000005
+2008,America,Brazil,Brazil Crude,6002,433011,72.14,0.0014000000000000002
+2008,America,Mexico,Isthmus,2763,206168,74.61,6e-4
+2008,America,Mexico,Maya,52960,4589816,86.66,0.011899999999999999
+2008,America,Other Latin America countries,Other Latin America Crude,14147,1556958,110.06,0.0032
+2008,America,Venezuela,Medium (22-30o),12160,1136711,93.48,0.0027
+2008,America,Venezuela,Heavy (17-22o),5767,468100,81.18,0.0013
+2008,America,Venezuela,Light (>30o),11159,1138932,102.07,0.0025
+2008,America,Venezuela,Extra Heavy (<17o),20463,1640453,80.17,0.0046
+2009,Middle East,Abu Dhabi,Lower Zakum,89,4076,45.69,0
+2009,Middle East,Abu Dhabi,Murban,1902,81646,42.92,5e-4
+2009,Middle East,Iran,Other Iran Crude,37463,2245992,59.95,0.0092
+2009,Middle East,Iran,Iranian Heavy,100100,6031248,60.25,0.024700000000000003
+2009,Middle East,Iran,Iranian Light,40018,2452551,61.29,0.009899999999999999
+2009,Middle East,Iraq,Basrah Light,39376,2331666,59.22,0.0097
+2009,Middle East,Iraq,Kirkuk,99115,6005812,60.59,0.024399999999999998
+2009,Middle East,Iraq,Other Iraq Crude,5836,357832,61.31,0.0014000000000000002
+2009,Middle East,Kuwait,Kuwait Blend,28714,1639319,57.09,0.0070999999999999995
+2009,Middle East,Saudi Arabia,Arab Light,187712,11620419,61.91,0.0463
+2009,Middle East,Saudi Arabia,Arab Medium,7325,397944,54.33,0.0018
+2009,Middle East,Saudi Arabia,Other Saudi Arabia Crude,2344,94329,40.24,6e-4
+2009,Middle East,Saudi Arabia,Arab Heavy,6749,358557,53.13,0.0017000000000000001
+2009,Middle East,Saudi Arabia,Berri (Extra Light),10763,714022,66.34,0.0027
+2009,Middle East,Syria,Souedie,38958,2292415,58.84,0.0096
+2009,Middle East,Syria,Syria Light,8564,506318,59.12,0.0021
+2009,Africa,Algeria,Saharan Blend,53563,3023502,56.45,0.0132
+2009,Africa,Algeria,Other Algeria Crude,22713,1328961,58.51,0.005600000000000001
+2009,Africa,Angola,Cabinda,1609,105126,65.33,4e-4
+2009,Africa,Angola,Other Angola Crude,102367,6050550,59.11,0.0252
+2009,Africa,Cameroon,Cameroon Crude,15858,958957,60.47,0.0039000000000000003
+2009,Africa,Congo,Congo Crude,12452,739705,59.4,0.0031
+2009,Africa,Congo (DR),Congo (DR) Crude,800,58122,72.65,2e-4
+2009,Africa,Egypt,Heavy (<30o API),10298,519208,50.42,0.0025
+2009,Africa,Egypt,Medium/Light (30-40o),23600,1304876,55.29,0.0058
+2009,Africa,Gabon,Rabi/Rabi Kounga,1262,93892,74.4,3e-4
+2009,Africa,Gabon,Other Gabon Crude,6896,394410,57.2,0.0017000000000000001
+2009,Africa,Libya,Medium (30-40o),187915,11500079,61.2,0.0463
+2009,Africa,Libya,Heavy (<30o API),17370,1015607,58.47,0.0043
+2009,Africa,Libya,Light (>40o),153270,9513109,62.07,0.0378
+2009,Africa,Nigeria,Medium (<33o),46711,3000200,64.23,0.0115
+2009,Africa,Nigeria,Light (33-45o),109434,7021499,64.16,0.027000000000000003
+2009,Africa,Nigeria,Condensate (>45o),10078,653937,64.89,0.0025
+2009,Africa,Other African Countries,Other Africa Crude,51627,3088636,59.83,0.0127
+2009,Africa,Tunisia,Tunisia Crude,11936,708070,59.32,0.0029
+2009,Australia,Australia,Other Australia Crude,299,23316,77.98,1e-4
+2009,Australia,Papua New Guinea,Papua New Guinea Crude,903,46038,50.98,2e-4
+2009,FSU,Azerbaijan,Azerbaijan Crude,140789,8905746,63.26,0.0347
+2009,FSU,Kazakhstan,Kazakhstan Crude,232587,14235263,61.2,0.0574
+2009,FSU,Other FSU countries,Other FSU Crude,108301,6542205,60.41,0.026699999999999998
+2009,FSU,Russian Federation,Other Russian Fed. Crude,492680,29795643,60.48,0.1215
+2009,FSU,Russian Federation,Urals,609776,37281998,61.14,0.15039999999999998
+2009,FSU,Ukraine,Ukraine Crude,893,64013,71.65,2e-4
+2009,Europe,Denmark,Denmark Crude,53166,3287518,61.84,0.0131
+2009,Europe,Norway,Statfjord,51999,3205889,61.65,0.0128
+2009,Europe,Norway,Ekofisk,119066,7448755,62.56,0.0294
+2009,Europe,Norway,Other Norway Crude,261367,16250283,62.17,0.0645
+2009,Europe,Norway,Oseberg,56397,3521913,62.45,0.0139
+2009,Europe,Norway,Gullfaks,58360,3658147,62.68,0.0144
+2009,Europe,United Kingdom,Other UK Crude,156,11978,76.78,0
+2009,Europe,Other European countries,Other Europe Crude,111660,6749026,60.44,0.0275
+2009,Europe,United Kingdom,Flotta,6004,390208,65,0.0015
+2009,Europe,United Kingdom,Forties,61577,3948623,64.12,0.0152
+2009,Europe,United Kingdom,Brent Blend,19020,1164546,61.23,0.004699999999999999
+2009,Europe,United Kingdom,Other UK Crude,98704,6074036,61.54,0.024300000000000002
+2009,America,Brazil,Brazil Crude,22167,1214601,54.79,0.0055000000000000005
+2009,America,Colombia,Other Colombia Crude,977,50551,51.74,2e-4
+2009,America,Mexico,Olmeca,1147,67803,59.11,3e-4
+2009,America,Mexico,Isthmus,2949,166872,56.58,7.000000000000001e-4
+2009,America,Mexico,Maya,35188,2192869,62.32,0.0087
+2009,America,Other Latin America countries,Other Latin America Crude,3929,275036,70,0.001
+2009,America,Venezuela,Medium (22-30o),11369,655367,57.65,0.0028000000000000004
+2009,America,Venezuela,Heavy (17-22o),3743,240805,64.33,9e-4
+2009,America,Venezuela,Light (>30o),13264,673699,50.79,0.0033
+2009,America,Venezuela,Extra Heavy (<17o),21258,1112974,52.36,0.0052
+2010,Middle East,Abu Dhabi,Murban,700,54275,77.54,2e-4
+2010,Middle East,Abu Dhabi,Upper Zakum,2590,212793,82.16,6e-4
+2010,Middle East,Iran,Other Iran Crude,40811,3132901,76.77,0.0101
+2010,Middle East,Iran,Iranian Heavy,110759,8534666,77.06,0.0275
+2010,Middle East,Iran,Iranian Light,61179,4732746,77.36,0.0152
+2010,Middle East,Iraq,Basrah Light,22885,1761302,76.96,0.005699999999999999
+2010,Middle East,Iraq,Kirkuk,85192,6571458,77.14,0.021099999999999997
+2010,Middle East,Iraq,Other Iraq Crude,10483,802685,76.57,0.0026
+2010,Middle East,Kuwait,Kuwait Blend,24753,1897186,76.64,0.0060999999999999995
+2010,Middle East,Oman,Oman,1022,86624,84.76,3e-4
+2010,Middle East,Other Middle East Countries,Other Middle East Crude,71,6451,90.89,0
+2010,Middle East,Saudi Arabia,Arab Light,219859,17417523,79.22,0.0545
+2010,Middle East,Saudi Arabia,Arab Medium,31,2607,84.1,0
+2010,Middle East,Saudi Arabia,Arab Heavy,48,3662,76.29,0
+2010,Middle East,Saudi Arabia,Berri (Extra Light),6275,501179,79.86,0.0016
+2010,Middle East,Syria,Souedie,40661,3065735,75.4,0.0101
+2010,Middle East,Syria,Syria Light,13802,1067929,77.38,0.0034000000000000002
+2010,Middle East,Yemen,Masila Blend,1734,126092,72.72,4e-4
+2010,Africa,Algeria,Saharan Blend,40738,3256682,79.94,0.0101
+2010,Africa,Algeria,Other Algeria Crude,19076,1533162,80.37,0.004699999999999999
+2010,Africa,Angola,Other Angola Crude,58089,4551055,78.35,0.0144
+2010,Africa,Cameroon,Cameroon Crude,14838,1174424,79.15,0.0037
+2010,Africa,Congo,Congo Crude,19223,1492774,77.66,0.0048
+2010,Africa,Congo (DR),Congo (DR) Crude,1838,148559,80.85,5e-4
+2010,Africa,Egypt,Heavy (<30o API),8468,642134,75.83,0.0021
+2010,Africa,Egypt,Medium/Light (30-40o),19429,1497273,77.06,0.0048
+2010,Africa,Gabon,Rabi/Rabi Kounga,608,51270,84.33,2e-4
+2010,Africa,Gabon,Other Gabon Crude,7517,571760,76.06,0.0019
+2010,Africa,Libya,Medium (30-40o),191018,14966486,78.35,0.0473
+2010,Africa,Libya,Heavy (<30o API),14992,1175817,78.43,0.0037
+2010,Africa,Libya,Light (>40o),196971,15958838,81.02,0.048799999999999996
+2010,Africa,Nigeria,Medium (<33o),32989,2695678,81.71,0.008199999999999999
+2010,Africa,Nigeria,Light (33-45o),120680,9943334,82.39,0.029900000000000003
+2010,Africa,Nigeria,Condensate (>45o),10576,859987,81.32,0.0026
+2010,Africa,Other African Countries,Other Africa Crude,47514,3786665,79.7,0.0118
+2010,Africa,Tunisia,Tunisia Crude,8839,683323,77.3,0.0022
+2010,FSU,Azerbaijan,Azerbaijan Crude,146742,12007403,81.83,0.0364
+2010,FSU,Kazakhstan,Kazakhstan Crude,224638,17674212,78.68,0.0557
+2010,FSU,Other FSU countries,Other FSU Crude,105827,8211307,77.59,0.0262
+2010,FSU,Russian Federation,Other Russian Fed. Crude,480350,37695357,78.47,0.1191
+2010,FSU,Russian Federation,Urals,637003,49778451,78.14,0.15789999999999998
+2010,FSU,Ukraine,Ukraine Crude,590,39777,67.42,1e-4
+2010,Europe,Denmark,Denmark Crude,55551,4512087,81.22,0.0138
+2010,Europe,Norway,Statfjord,54439,4464027,82,0.013500000000000002
+2010,Europe,Norway,Ekofisk,86989,7064194,81.21,0.0216
+2010,Europe,Norway,Other Norway Crude,249212,20105977,80.68,0.061799999999999994
+2010,Europe,Norway,Oseberg,57310,4620255,80.62,0.014199999999999999
+2010,Europe,Norway,Gullfaks,44408,3634808,81.85,0.011000000000000001
+2010,Europe,Other European countries,Other Europe Crude,93976,7318793,77.88,0.0233
+2010,Europe,United Kingdom,Flotta,10275,807831,78.62,0.0025
+2010,Europe,United Kingdom,Forties,84760,6831135,80.59,0.021
+2010,Europe,United Kingdom,Brent Blend,30173,2458382,81.48,0.0075
+2010,Europe,United Kingdom,Other UK Crude,91499,7319149,79.99,0.0227
+2010,America,Argentina,Argentina Crude,4632,377700,81.54,0.0011
+2010,America,Brazil,Brazil Crude,34648,2676908,77.26,0.0086
+2010,America,Canada,Light Sweet (>30o API),4179,347915,83.25,0.001
+2010,America,Colombia,Other Colombia Crude,4492,344053,76.6,0.0011
+2010,America,Ecuador,Other Ecuador Crude,484,33397,68.93,1e-4
+2010,America,Mexico,Olmeca,299,23394,78.24,1e-4
+2010,America,Mexico,Isthmus,6097,478786,78.53,0.0015
+2010,America,Mexico,Maya,39729,2868066,72.19,0.0098
+2010,America,Venezuela,Medium (22-30o),6705,490948,73.22,0.0017000000000000001
+2010,America,Venezuela,Heavy (17-22o),5133,379348,73.91,0.0013
+2010,America,Venezuela,Light (>30o),1750,135216,77.28,4e-4
+2010,America,Venezuela,Extra Heavy (<17o),16036,1102374,68.75,0.004
+2011,Middle East,Abu Dhabi,Murban,4615,527541,114.31,0.0012
+2011,Middle East,Abu Dhabi,Upper Zakum,2499,276293,110.56,6e-4
+2011,Middle East,Iran,Other Iran Crude,23566,2515521,106.74,0.0060999999999999995
+2011,Middle East,Iran,Iranian Heavy,154818,16582268,107.11,0.04
+2011,Middle East,Iran,Iranian Light,39991,4362177,109.08,0.0103
+2011,Middle East,Iraq,Basrah Light,34747,3797273,109.28,0.009000000000000001
+2011,Middle East,Iraq,Kirkuk,78104,8447813,108.16,0.0202
+2011,Middle East,Iraq,Other Iraq Crude,6445,698559,108.39,0.0017000000000000001
+2011,Middle East,Kuwait,Kuwait Blend,28896,3090540,106.95,0.0075
+2011,Middle East,Oman,Oman,1556,165403,106.33,4e-4
+2011,Middle East,Qatar,Qatar Land,526,58086,110.43,1e-4
+2011,Middle East,Qatar,Qatar Marine,640,70509,110.17,2e-4
+2011,Middle East,Saudi Arabia,Arab Light,267682,29189812,109.05,0.0692
+2011,Middle East,Saudi Arabia,Arab Medium,7032,764894,108.78,0.0018
+2011,Middle East,Saudi Arabia,Arab Heavy,5277,555261,105.22,0.0014000000000000002
+2011,Middle East,Saudi Arabia,Berri (Extra Light),19339,2182602,112.86,0.005
+2011,Middle East,Syria,Souedie,25918,2683712,103.55,0.0067
+2011,Middle East,Syria,Syria Light,8208,917339,111.76,0.0021
+2011,Middle East,Yemen,Masila Blend,600,65640,109.4,2e-4
+2011,Africa,Algeria,Saharan Blend,94851,10751745,113.35,0.0245
+2011,Africa,Algeria,Other Algeria Crude,12498,1431284,114.52,0.0032
+2011,Africa,Angola,Cabinda,1780,192801,108.32,5e-4
+2011,Africa,Angola,Other Angola Crude,73347,8120425,110.71,0.019
+2011,Africa,Cameroon,Cameroon Crude,13224,1480087,111.92,0.0034000000000000002
+2011,Africa,Congo,Congo Crude,20452,2236102,109.34,0.0053
+2011,Africa,Congo (DR),Congo (DR) Crude,3697,409782,110.84,0.001
+2011,Africa,Egypt,Heavy (<30o API),13787,1379990,100.09,0.0036
+2011,Africa,Egypt,Medium/Light (30-40o),24204,2723817,112.54,0.0063
+2011,Africa,Gabon,Other Gabon Crude,6200,653725,105.44,0.0016
+2011,Africa,Libya,Medium (30-40o),53161,5438215,102.3,0.0137
+2011,Africa,Libya,Heavy (<30o API),8612,926032,107.53,0.0022
+2011,Africa,Libya,Light (>40o),48242,4981077,103.25,0.0125
+2011,Africa,Nigeria,Medium (<33o),50913,5824919,114.41,0.0132
+2011,Africa,Nigeria,Light (33-45o),162582,18506627,113.83,0.042
+2011,Africa,Nigeria,Condensate (>45o),12124,1384487,114.2,0.0031
+2011,Africa,Other African Countries,Other Africa Crude,63069,7152606,113.41,0.0163
+2011,Africa,Tunisia,Tunisia Crude,8790,974398,110.86,0.0023
+2011,Australia,Australia,Gippsland,397,48037,121,1e-4
+2011,Australia,Papua New Guinea,Papua New Guinea Crude,2574,279122,108.44,7.000000000000001e-4
+2011,FSU,Azerbaijan,Azerbaijan Crude,171688,19866180,115.71,0.0444
+2011,FSU,Kazakhstan,Kazakhstan Crude,234585,26290875,112.07,0.060599999999999994
+2011,FSU,Other FSU countries,Other FSU Crude,100980,11031824,109.25,0.026099999999999998
+2011,FSU,Russian Federation,Other Russian Fed. Crude,491438,54053170,109.99,0.127
+2011,FSU,Russian Federation,Urals,589878,64820228,109.89,0.1525
+2011,FSU,Ukraine,Ukraine Crude,688,77985,113.35,2e-4
+2011,Europe,Denmark,Denmark Crude,50052,5655317,112.99,0.0129
+2011,Europe,Norway,Statfjord,61923,7109348,114.81,0.016
+2011,Europe,Norway,Ekofisk,95781,10996138,114.8,0.0248
+2011,Europe,Norway,Other Norway Crude,216530,24560292,113.43,0.055999999999999994
+2011,Europe,Norway,Oseberg,39926,4532363,113.52,0.0103
+2011,Europe,Norway,Gullfaks,34453,3969895,115.23,0.0089
+2011,Europe,Other European countries,Other Europe Crude,103031,11135706,108.08,0.026600000000000002
+2011,Europe,United Kingdom,Flotta,5103,559228,109.58,0.0013
+2011,Europe,United Kingdom,Forties,70541,7887375,111.81,0.0182
+2011,Europe,United Kingdom,Brent Blend,27212,3071016,112.86,0.006999999999999999
+2011,Europe,United Kingdom,Other UK Crude,66191,7470841,112.87,0.0171
+2011,America,Argentina,Argentina Crude,100,9660,96.6,0
+2011,America,Brazil,Brazil Crude,24052,2644689,109.96,0.0062
+2011,America,Canada,Light Sweet (>30o API),7373,847784,114.98,0.0019
+2011,America,Colombia,Other Colombia Crude,13802,1468596,106.4,0.0036
+2011,America,Ecuador,Other Ecuador Crude,583,57562,98.67,2e-4
+2011,America,Mexico,Olmeca,1388,152602,109.94,4e-4
+2011,America,Mexico,Isthmus,3618,393953,108.89,9e-4
+2011,America,Mexico,Maya,45590,4654590,102.1,0.0118
+2011,America,Other Latin America countries,Other Latin America Crude,2203,213585,96.95,6e-4
+2011,America,Venezuela,Medium (22-30o),6335,620852,98.01,0.0016
+2011,America,Venezuela,Heavy (17-22o),3782,386309,102.14,0.001
+2011,America,Venezuela,Light (>30o),452,57151,126.44,1e-4
+2011,America,Venezuela,Extra Heavy (<17o),14651,1377964,94.05,0.0038
+2012,Middle East,Abu Dhabi,Upper Zakum,617,71007,115.08,2e-4
+2012,Middle East,Iran,Other Iran Crude,3429,382270,111.5,9e-4
+2012,Middle East,Iran,Iranian Heavy,33221,3746230,112.77,0.008199999999999999
+2012,Middle East,Iran,Iranian Light,13665,1508091,110.36,0.0034000000000000002
+2012,Middle East,Iraq,Basrah Light,79604,8401086,105.54,0.019799999999999998
+2012,Middle East,Iraq,Kirkuk,61288,6717371,109.6,0.0152
+2012,Middle East,Iraq,Other Iraq Crude,10909,1121944,102.84,0.0027
+2012,Middle East,Kuwait,Kuwait Blend,33600,3636667,108.23,0.0083
+2012,Middle East,Oman,Oman,621,69620,112.14,2e-4
+2012,Middle East,Other Middle East Countries,Other Middle East Crude,433,55264,127.58,1e-4
+2012,Middle East,Saudi Arabia,Arab Light,282801,31412348,111.08,0.0702
+2012,Middle East,Saudi Arabia,Arab Medium,17468,1917619,109.78,0.0043
+2012,Middle East,Saudi Arabia,Arab Heavy,38376,4092054,106.63,0.0095
+2012,Middle East,Saudi Arabia,Berri (Extra Light),15672,1728847,110.31,0.0039000000000000003
+2012,Africa,Algeria,Saharan Blend,106964,11814595,110.45,0.0265
+2012,Africa,Algeria,Other Algeria Crude,8301,934748,112.61,0.0021
+2012,Africa,Angola,Cabinda,1992,240228,120.6,5e-4
+2012,Africa,Angola,Other Angola Crude,65971,7407561,112.28,0.016399999999999998
+2012,Africa,Cameroon,Cameroon Crude,12561,1405290,111.88,0.0031
+2012,Africa,Congo,Congo Crude,16594,1858782,112.02,0.0040999999999999995
+2012,Africa,Congo (DR),Congo (DR) Crude,5811,637775,109.75,0.0014000000000000002
+2012,Africa,Egypt,Heavy (,8832,946578,107.17,0.0022
+2012,Africa,Egypt,Medium/Light (30-40o),18595,2075434,111.61,0.0046
+2012,Africa,Gabon,Other Gabon Crude,6612,728845,110.23,0.0016
+2012,Africa,Libya,Medium (30-40o),175327,19828547,113.09,0.0435
+2012,Africa,Libya,Heavy (,16405,1819254,110.9,0.0040999999999999995
+2012,Africa,Libya,Light (>40o),124749,13936209,111.71,0.031
+2012,Africa,Nigeria,Medium (,91210,10524436,115.39,0.0226
+2012,Africa,Nigeria,Light (33-45o),206569,23681373,114.64,0.0513
+2012,Africa,Nigeria,Condensate (>45o),14383,1599594,111.21,0.0036
+2012,Africa,Other African Countries,Other Africa Crude,77954,8858861,113.64,0.019299999999999998
+2012,Africa,Tunisia,Tunisia Crude,9571,1064795,111.25,0.0024
+2012,Australia,Papua New Guinea,Papua New Guinea Crude,1622,177421,109.38,4e-4
+2012,FSU,Azerbaijan,Azerbaijan Crude,132683,15433873,116.32,0.0329
+2012,FSU,Kazakhstan,Kazakhstan Crude,204049,22932053,112.39,0.0506
+2012,FSU,Other FSU countries,Other FSU Crude,22030,2618938,118.88,0.0055000000000000005
+2012,FSU,Russian Federation,Other Russian Fed. Crude,540118,59653602,110.45,0.134
+2012,FSU,Russian Federation,Urals,647728,71665578,110.64,0.1607
+2012,Europe,Denmark,Denmark Crude,42716,4871698,114.05,0.0106
+2012,Europe,Norway,Statfjord,42622,4837953,113.51,0.0106
+2012,Europe,Norway,Ekofisk,69118,7759280,112.26,0.0171
+2012,Europe,Norway,Other Norway Crude,225439,25590415,113.51,0.0559
+2012,Europe,Norway,Oseberg,39138,4493530,114.81,0.0097
+2012,Europe,Norway,Gullfaks,34095,3906708,114.58,0.0085
+2012,Europe,Other European countries,Other Europe Crude,104909,11463813,109.27,0.026000000000000002
+2012,Europe,United Kingdom,Flotta,14075,1620525,115.13,0.0034999999999999996
+2012,Europe,United Kingdom,Forties,38083,4274373,112.24,0.009399999999999999
+2012,Europe,United Kingdom,Brent Blend,56028,6359949,113.51,0.0139
+2012,Europe,United Kingdom,Other UK Crude,93937,10659678,113.48,0.0233
+2012,America,Brazil,Brazil Crude,26412,2920991,110.6,0.0066
+2012,America,Canada,Light Sweet (>30o API),3634,407144,112.03,9e-4
+2012,America,Colombia,Other Colombia Crude,30410,3152847,103.68,0.0075
+2012,America,Mexico,Olmeca,331,36790,111.15,1e-4
+2012,America,Mexico,Isthmus,12393,1374428,110.9,0.0031
+2012,America,Mexico,Maya,50426,5193475,102.99,0.0125
+2012,America,Other Latin America countries,Other Latin America Crude,1485,167421,112.74,4e-4
+2012,America,United States,Other US Crude,60,4851,80.75,0
+2012,America,Venezuela,Medium (22-30o),2785,298050,107.01,7.000000000000001e-4
+2012,America,Venezuela,Heavy (17-22o),3716,410023,110.34,9e-4
+2012,America,Venezuela,Light (>30o),4933,540946,109.67,0.0012
+2012,America,Venezuela,Extra Heavy (,25055,2556660,102.04,0.0062
+2012,Other,Other Countries,Other crudes,75,8456,112.17,0
+2013,Middle East,Abu Dhabi,Other Abu Dhabi Crude,354,38710,109.35,1e-4
+2013,Middle East,Abu Dhabi,Murban,1177,133816,113.71,3e-4
+2013,Middle East,Iraq,Basrah Light,69349,7291293,105.14,0.0183
+2013,Middle East,Iraq,Kirkuk,45466,4818879,105.99,0.012
+2013,Middle East,Iraq,Other Iraq Crude,6882,740533,107.61,0.0018
+2013,Middle East,Kuwait,Kuwait Blend,35042,3717187,106.08,0.009300000000000001
+2013,Middle East,Oman,Oman,2003,218494,109.07,5e-4
+2013,Middle East,Other Middle East Countries,Other Middle East Crude,1199,128983,107.58,3e-4
+2013,Middle East,Qatar,Qatar Marine,2098,233946,111.51,6e-4
+2013,Middle East,Saudi Arabia,Arab Light,235090,25519310,108.55,0.0622
+2013,Middle East,Saudi Arabia,Arab Medium,4630,490283,105.89,0.0012
+2013,Middle East,Saudi Arabia,Other Saudi Arabia Crude,1433,161137,112.49,4e-4
+2013,Middle East,Saudi Arabia,Arab Heavy,47587,4937968,103.77,0.0126
+2013,Middle East,Saudi Arabia,Berri (Extra Light),35152,3832216,109.02,0.009300000000000001
+2013,Middle East,Syria,Syria Light,19,1762,94.14,0
+2013,Africa,Algeria,Saharan Blend,139464,15373326,110.23,0.0369
+2013,Africa,Algeria,Other Algeria Crude,7365,800396,108.68,0.0019
+2013,Africa,Angola,Cabinda,3890,441286,113.44,0.001
+2013,Africa,Angola,Other Angola Crude,96454,10456275,108.41,0.0255
+2013,Africa,Cameroon,Cameroon Crude,16083,1773156,110.25,0.0043
+2013,Africa,Congo,Congo Crude,7647,827912,108.27,0.002
+2013,Africa,Congo (DR),Congo (DR) Crude,3100,339200,109.43,8e-4
+2013,Africa,Egypt,Heavy (,11326,1166204,102.96,0.003
+2013,Africa,Egypt,Medium/Light (30-40o),23747,2611642,109.98,0.0063
+2013,Africa,Gabon,Rabi/Rabi Kounga,1243,139590,112.3,3e-4
+2013,Africa,Gabon,Other Gabon Crude,13252,1425354,107.56,0.0034999999999999996
+2013,Africa,Libya,Medium (30-40o),105470,11521685,109.24,0.0279
+2013,Africa,Libya,Heavy (,15913,1735437,109.05,0.0042
+2013,Africa,Libya,Light (>40o),82618,9094127,110.07,0.0219
+2013,Africa,Nigeria,Medium (,85033,9545307,112.25,0.0225
+2013,Africa,Nigeria,Light (33-45o),184887,21048801,113.85,0.0489
+2013,Africa,Nigeria,Condensate (>45o),26881,3006288,111.84,0.0070999999999999995
+2013,Africa,Other African Countries,Other Africa Crude,78261,8611995,110.04,0.0207
+2013,Africa,Tunisia,Tunisia Crude,6738,727476,107.96,0.0018
+2013,Asia,Other Asian Countries,Other Asia Crude,345,37705,109.29,1e-4
+2013,FSU,Azerbaijan,Azerbaijan Crude,152340,17152860,112.6,0.0403
+2013,FSU,Kazakhstan,Kazakhstan Crude,211008,23132526,109.63,0.0558
+2013,FSU,Other FSU countries,Other FSU Crude,3862,418663,108.42,0.001
+2013,FSU,Russian Federation,Other Russian Fed. Crude,485629,52380565,107.86,0.1284
+2013,FSU,Russian Federation,Urals,646858,69674485,107.71,0.1711
+2013,FSU,Ukraine,Ukraine Crude,570,65007,114.12,2e-4
+2013,Europe,Denmark,Denmark Crude,43988,4894904,111.28,0.0116
+2013,Europe,Norway,Statfjord,41726,4610479,110.49,0.011000000000000001
+2013,Europe,Norway,Ekofisk,55730,6245195,112.06,0.0147
+2013,Europe,Norway,Other Norway Crude,225357,24914353,110.56,0.0596
+2013,Europe,Norway,Oseberg,34734,3863061,111.22,0.0092
+2013,Europe,Norway,Gullfaks,32336,3628026,112.2,0.0086
+2013,Europe,Other European countries,Other Europe Crude,109042,11668973,107.01,0.0288
+2013,Europe,United Kingdom,Flotta,5880,635220,108.03,0.0016
+2013,Europe,United Kingdom,Forties,45025,4935937,109.63,0.011899999999999999
+2013,Europe,United Kingdom,Brent Blend,34839,3883212,111.46,0.0092
+2013,Europe,United Kingdom,Other UK Crude,80635,8808761,109.24,0.0213
+2013,America,Brazil,Brazil Crude,12613,1304314,103.41,0.0033
+2013,America,Canada,Light Sweet (>30o API),17910,1971984,110.11,0.004699999999999999
+2013,America,Colombia,Other Colombia Crude,35924,3721902,103.61,0.0095
+2013,America,Ecuador,Oriente,1080,110080,101.96,3e-4
+2013,America,Ecuador,Other Ecuador Crude,359,34837,97.02,1e-4
+2013,America,Mexico,Olmeca,219,24966,114,1e-4
+2013,America,Mexico,Isthmus,11606,1264144,108.92,0.0031
+2013,America,Mexico,Maya,52345,5188050,99.11,0.0138
+2013,America,Other Latin America countries,Other Latin America Crude,7664,844030,110.13,0.002
+2013,America,United States,Other US Crude,2132,238633,111.92,6e-4
+2013,America,Venezuela,Medium (22-30o),5270,539329,102.33,0.0014000000000000002
+2013,America,Venezuela,Heavy (17-22o),428,46108,107.73,1e-4
+2013,America,Venezuela,Light (>30o),1821,203739,111.9,5e-4
+2013,America,Venezuela,Extra Heavy (,24859,2392191,96.23,0.0066
+2014,Africa,Algeria,Saharan Blend,148386,15028532,101.28,0.038599999999999995
+2014,Africa,Algeria,Other Algeria Crude,10810,1057810,97.86,0.0028000000000000004
+2014,Africa,Angola,Cabinda,1468,132685,90.37,4e-4
+2014,Africa,Angola,Other Angola Crude,117257,11434028,97.51,0.0305
+2014,Africa,Algeria,Other Algeria Crude,621,58889,94.83,2e-4
+2014,Africa,Cameroon,Cameroon Crude,14897,1510095,101.37,0.0039000000000000003
+2014,Africa,Congo,Congo Crude,15248,1548490,101.55,0.004
+2014,Africa,Congo (DR),Congo (DR) Crude,555,38925,70.11,1e-4
+2014,Africa,Egypt,Heavy (<30o API),7575,758446,100.13,0.002
+2014,Africa,Egypt,Medium/Light (30-40o),32744,3221157,98.37,0.0085
+2014,Africa,Gabon,Rabi/Rabi Kounga,4146,380629,91.81,0.0011
+2014,Africa,Gabon,Other Gabon Crude,7558,724529,95.86,0.002
+2014,Africa,Libya,Medium (30-40o),55716,5104964,91.62,0.014499999999999999
+2014,Africa,Libya,Heavy (<30o API),20277,1978088,97.55,0.0053
+2014,Africa,Libya,Light (>40o),46912,4544167,96.87,0.012199999999999999
+2014,Africa,Nigeria,Medium (<33o),111956,11655031,104.1,0.0291
+2014,Africa,Nigeria,Light (33-45o),200163,20846358,104.15,0.0521
+2014,Africa,Nigeria,Condensate (>45o),17130,1815519,105.98,0.0045000000000000005
+2014,Africa,Other African Countries,Other Africa Crude,63522,6506068,102.42,0.0165
+2014,Africa,Tunisia,Tunisia Crude,6318,616915,97.65,0.0016
+2014,America,Brazil,Brazil Crude,20308,1849063,91.05,0.0053
+2014,America,Canada,Canadian Heavy (<33° API),844,87052,103.1,2e-4
+2014,America,Canada,Light Sweet (>30o API),17715,1853259,104.62,0.0046
+2014,America,Colombia,Other Colombia Crude,50860,4707578,92.56,0.0132
+2014,America,Ecuador,Oriente,349,34495,98.7,1e-4
+2014,America,Ecuador,Other Ecuador Crude,364,29117,79.96,1e-4
+2014,America,Mexico,Olmeca,14244,1395110,97.94,0.0037
+2014,America,Mexico,Isthmus,11708,1171338,100.05,0.003
+2014,America,Mexico,Maya,44384,3639917,82.01,0.0115
+2014,America,Other Latin America countries,Other Latin America Crude,5358,522836,97.58,0.0014000000000000002
+2014,America,United States,Other US Crude,5644,616501,109.23,0.0015
+2014,America,Venezuela,Medium (22-30o),5963,602685,101.07,0.0016
+2014,America,Venezuela,Extra Heavy (<17o),30923,2670571,86.36,0.008
+2014,Asia,Other Asian Countries,Other Asia Crude,647,66939,103.46,2e-4
+2014,Australia,Papua New Guinea,Papua New Guinea Crude,819,81899,100,2e-4
+2014,Europe,Denmark,Denmark Crude,31680,3184842,100.53,0.008199999999999999
+2014,Europe,Norway,Statfjord,48339,4882381,101,0.0126
+2014,Europe,Norway,Ekofisk,81561,8063100,98.86,0.0212
+2014,Europe,Norway,Other Norway Crude,242615,24303164,100.17,0.06309999999999999
+2014,Europe,Norway,Oseberg,35524,3567457,100.42,0.0092
+2014,Europe,Norway,Gullfaks,53408,5274280,98.75,0.0139
+2014,Europe,Other European countries,Other Europe Crude,102353,9901657,96.74,0.026600000000000002
+2014,Europe,United Kingdom,Flotta,8446,818339,96.89,0.0022
+2014,Europe,United Kingdom,Forties,62582,6309445,100.82,0.0163
+2014,Europe,United Kingdom,Brent Blend,22991,2403157,104.53,0.006
+2014,Europe,United Kingdom,Other UK Crude,66737,6663187,99.84,0.0174
+2014,FSU,Azerbaijan,Azerbaijan Crude,165906,17136011,103.29,0.0431
+2014,FSU,Kazakhstan,Kazakhstan Crude,237871,23757299,99.87,0.061900000000000004
+2014,FSU,Other FSU countries,Other FSU Crude,2655,242791,91.45,7.000000000000001e-4
+2014,FSU,Russian Federation,Other Russian Fed. Crude,452000,44210757,97.81,0.1175
+2014,FSU,Russian Federation,Urals,603589,59643080,98.81,0.157
+2014,FSU,Ukraine,Ukraine Crude,311,33050,106.18,1e-4
+2014,Middle East,Abu Dhabi,Umm Shaif,548,61169,111.72,1e-4
+2014,Middle East,Abu Dhabi,Murban,2042,231994,113.61,5e-4
+2014,Middle East,Iran,Iranian Light,3265,272415,83.44,8e-4
+2014,Middle East,Iraq,Basrah Light,138004,12707412,92.08,0.0359
+2014,Middle East,Iraq,Kirkuk,19039,1782271,93.61,0.005
+2014,Middle East,Iraq,Other Iraq Crude,9019,751244,83.3,0.0023
+2014,Middle East,Kuwait,Kuwait Blend,33158,3131103,94.43,0.0086
+2014,Middle East,Qatar,Qatar Marine,3513,382640,108.92,9e-4
+2014,Middle East,Saudi Arabia,Arab Light,241050,23503823,97.51,0.06269999999999999
+2014,Middle East,Saudi Arabia,Arab Medium,11674,1122106,96.12,0.003
+2014,Middle East,Saudi Arabia,Other Saudi Arabia Crude,2193,205044,93.5,6e-4
+2014,Middle East,Saudi Arabia,Arab Heavy,24371,2431426,99.77,0.0063
+2014,Middle East,Saudi Arabia,Berri (Extra Light),44395,4375555,98.56,0.0115
+2014,Middle East,Syria,Syria Light,66,7255,110.27,0
+2014,Middle East,Yemen,Marib Light,491,54730,111.48,1e-4
+2014,Other,Other Countries,Other crudes,591,47044,79.6,2e-4
+2015,Africa,Algeria,Saharan Blend,159204,8634123,54.23,0.0397
+2015,Africa,Algeria,Other Algeria Crude,9417,501483,53.25,0.0023
+2015,Africa,Angola,Cabinda,15944,866786,54.36,0.004
+2015,Africa,Angola,Other Angola Crude,138953,7319434,52.68,0.0346
+2015,Africa,Cameroon,Cameroon Crude,13642,684838,50.2,0.0034000000000000002
+2015,Africa,Congo,Congo Crude,23704,1265441,53.39,0.0059
+2015,Africa,Egypt,Heavy (<30o API),8218,416551,50.69,0.002
+2015,Africa,Egypt,Medium/Light (30-40o),49479,2627322,53.1,0.0123
+2015,Africa,Gabon,Rabi/Rabi Kounga,8218,435547,53,0.002
+2015,Africa,Gabon,Other Gabon Crude,16780,853108,50.84,0.0042
+2015,Africa,Libya,Medium (30-40o),62098,3188769,51.35,0.0155
+2015,Africa,Libya,Heavy (<30o API),15590,835552,53.59,0.0039000000000000003
+2015,Africa,Libya,Light (>40o),30020,1604639,53.45,0.0075
+2015,Africa,Nigeria,Medium (<33o),111976,6081829,54.31,0.0279
+2015,Africa,Nigeria,Light (33-45o),197029,10932274,55.49,0.049100000000000005
+2015,Africa,Nigeria,Condensate (>45o),11228,626215,55.77,0.0028000000000000004
+2015,Africa,Other African Countries,Other Africa Crude,70166,3702051,52.76,0.0175
+2015,Africa,Tunisia,Tunisia Crude,7996,440578,55.1,0.002
+2015,America,Brazil,Brazil Crude,19810,824098,41.6,0.0049
+2015,America,Canada,Canadian Heavy (<33° API),2086,84770,40.64,5e-4
+2015,America,Canada,Light Sweet (>30o API),7224,382337,52.92,0.0018
+2015,America,Colombia,Other Colombia Crude,32196,1480105,45.97,0.008
+2015,America,Mexico,Olmeca,27069,1445210,53.39,0.0067
+2015,America,Mexico,Isthmus,12225,607747,49.72,0.003
+2015,America,Mexico,Maya,53672,2137059,39.82,0.0134
+2015,America,Other Latin America countries,Other Latin America Crude,1035,51154,49.4,3e-4
+2015,America,United States,Alaska,2899,164472,56.73,7.000000000000001e-4
+2015,America,United States,Other US Crude,7119,386714,54.32,0.0018
+2015,America,Venezuela,Heavy (17-22o),3156,144377,45.75,8e-4
+2015,America,Venezuela,Extra Heavy (<17o),28982,1157431,39.94,0.0072
+2015,Europe,Denmark,Denmark Crude,29712,1629005,54.83,0.0074
+2015,Europe,Norway,Statfjord,46203,2484047,53.76,0.0115
+2015,Europe,Norway,Ekofisk,82893,4445688,53.63,0.0207
+2015,Europe,Norway,Other Norway Crude,233909,12454398,53.24,0.0583
+2015,Europe,Norway,Oseberg,35859,1966525,54.84,0.0089
+2015,Europe,Norway,Gullfaks,47657,2659653,55.81,0.011899999999999999
+2015,Europe,Other European countries,Other Europe Crude,23791,1200986,50.48,0.0059
+2015,Europe,United Kingdom,Flotta,12495,622896,49.85,0.0031
+2015,Europe,United Kingdom,Forties,35871,1911204,53.28,0.0089
+2015,Europe,United Kingdom,Brent Blend,22090,1161236,52.57,0.0055000000000000005
+2015,Europe,United Kingdom,Other UK Crude,86942,4547200,52.3,0.0217
+2015,FSU,Azerbaijan,Azerbaijan Crude,168550,9243974,54.84,0.042
+2015,FSU,Azerbaijan,Azeri Light,15453,913792,59.13,0.0039000000000000003
+2015,FSU,Kazakhstan,Kazakhstan Crude,243032,12954983,53.31,0.060599999999999994
+2015,FSU,Other FSU countries,Other FSU Crude,4205,223656,53.19,0.001
+2015,FSU,Russian Federation,Other Russian Fed. Crude,503126,25993495,51.66,0.12539999999999998
+2015,FSU,Russian Federation,Urals,624667,31385632,50.24,0.1557
+2015,FSU,Ukraine,Ukraine Crude,60,3612,60.06,0
+2015,Middle East,Abu Dhabi,Other Abu Dhabi Crude,1050,43289,41.21,3e-4
+2015,Middle East,Abu Dhabi,Murban,4076,215883,52.97,0.001
+2015,Middle East,Abu Dhabi,Upper Zakum,2056,110068,53.54,5e-4
+2015,Middle East,Iraq,Basrah Light,137447,6550678,47.66,0.034300000000000004
+2015,Middle East,Iraq,Kirkuk,68954,3455485,50.11,0.0172
+2015,Middle East,Iraq,Other Iraq Crude,75239,3140905,41.75,0.018799999999999997
+2015,Middle East,Kuwait,Kuwait Blend,48159,2323436,48.25,0.012
+2015,Middle East,Qatar,Qatar Land,770,36333,47.19,2e-4
+2015,Middle East,Saudi Arabia,Arab Light,237251,12266442,51.7,0.0591
+2015,Middle East,Saudi Arabia,Arab Medium,10575,545559,51.59,0.0026
+2015,Middle East,Saudi Arabia,Other Saudi Arabia Crude,9774,511339,52.32,0.0024
+2015,Middle East,Saudi Arabia,Arab Heavy,16929,904493,53.43,0.0042
+2015,Middle East,Saudi Arabia,Berri (Extra Light),34167,1842202,53.92,0.0085
+2015,Middle East,Syria,Syria Light,2214,87777,39.64,6e-4
+2015,Other,Other Countries,Other crudes,22,836,38.74,0
+2016,Africa,Algeria,Saharan Blend,101447,4531810,44.67,0.0256
+2016,Africa,Algeria,Other Algeria Crude,7294,328304,45.01,0.0018
+2016,Africa,Angola,Cabinda,7708,344260,44.66,0.0019
+2016,Africa,Angola,Other Angola Crude,90820,3807561,41.92,0.0229
+2016,Africa,Cameroon,Cameroon Crude,15195,616435,40.57,0.0038
+2016,Africa,Congo,Congo Crude,11988,509448,42.5,0.003
+2016,Africa,Egypt,Heavy (<30o API),1206,30606,25.37,3e-4
+2016,Africa,Egypt,Medium/Light (30-40o),44336,1951512,44.02,0.011200000000000002
+2016,Africa,Gabon,Rabi/Rabi Kounga,4408,191862,43.53,0.0011
+2016,Africa,Gabon,Other Gabon Crude,13267,546486,41.19,0.0034000000000000002
+2016,Africa,Libya,Medium (30-40o),59630,2657110,44.56,0.0151
+2016,Africa,Libya,Heavy (<30o API),12371,485837,39.27,0.0031
+2016,Africa,Libya,Light (>40o),18160,800857,44.1,0.0046
+2016,Africa,Nigeria,Medium (<33o),63989,2811735,43.94,0.016200000000000003
+2016,Africa,Nigeria,Light (33-45o),138461,6183777,44.66,0.035
+2016,Africa,Nigeria,Condensate (>45o),8922,375080,42.04,0.0023
+2016,Africa,Other African Countries,Other Africa Crude,50355,2172537,43.14,0.0127
+2016,Africa,Tunisia,Tunisia Crude,6331,265672,41.97,0.0016
+2016,America,Brazil,Brazil Crude,31873,1173771,36.83,0.008
+2016,America,Canada,Canadian Heavy (<33° API),4086,165004,40.38,0.001
+2016,America,Canada,Light Sweet (>30o API),8828,393511,44.58,0.0022
+2016,America,Colombia,Other Colombia Crude,22914,819958,35.78,0.0058
+2016,America,Mexico,Olmeca,26752,1113079,41.61,0.0068000000000000005
+2016,America,Mexico,Isthmus,6248,238848,38.23,0.0016
+2016,America,Mexico,Maya,61916,2122084,34.27,0.015600000000000001
+2016,America,Other Latin America countries,Other Latin America Crude,1265,30592,24.18,3e-4
+2016,America,United States,Alaska,4657,213297,45.8,0.0012
+2016,America,United States,Other US Crude,26930,1218510,45.25,0.0068000000000000005
+2016,America,Venezuela,Medium (22-30o),1747,67732,38.77,4e-4
+2016,America,Venezuela,Extra Heavy (<17o),17355,502055,28.93,0.0044
+2016,Europe,Denmark,Denmark Crude,24896,1121021,45.03,0.0063
+2016,Europe,Norway,Statfjord,52326,2324493,44.42,0.0132
+2016,Europe,Norway,Ekofisk,65804,2919260,44.36,0.0166
+2016,Europe,Norway,Other Norway Crude,258576,11491349,44.44,0.0653
+2016,Europe,Norway,Oseberg,31451,1423246,45.25,0.0079
+2016,Europe,Norway,Gullfaks,45167,2041450,45.2,0.011399999999999999
+2016,Europe,Other European countries,Other Europe Crude,14624,562742,38.48,0.0037
+2016,Europe,United Kingdom,Flotta,23910,1047949,43.83,0.006
+2016,Europe,United Kingdom,Forties,40119,1758259,43.83,0.0101
+2016,Europe,United Kingdom,Brent Blend,22364,990509,44.29,0.005600000000000001
+2016,Europe,United Kingdom,Other UK Crude,82873,3454162,41.68,0.0209
+2016,FSU,Azerbaijan,Azerbaijan Crude,162875,7292442,44.77,0.041100000000000005
+2016,FSU,Kazakhstan,Kazakhstan Crude,269368,11487858,42.65,0.068
+2016,FSU,Other FSU countries,Other FSU Crude,13510,613668,45.42,0.0034000000000000002
+2016,FSU,Russian Federation,Other Russian Fed. Crude,522543,21926728,41.96,0.132
+2016,FSU,Russian Federation,Urals,676370,28003005,41.4,0.17079999999999998
+2016,Middle East,Abu Dhabi,Other Abu Dhabi Crude,1088,51267,47.14,3e-4
+2016,Middle East,Abu Dhabi,Murban,4964,224076,45.14,0.0013
+2016,Middle East,Iran,Other Iran Crude,5179,232217,44.84,0.0013
+2016,Middle East,Iran,Iranian Heavy,47502,1977577,41.63,0.012
+2016,Middle East,Iran,Iranian Light,53719,2356742,43.87,0.013600000000000001
+2016,Middle East,Iraq,Basrah Light,133458,5241244,39.27,0.0337
+2016,Middle East,Iraq,Kirkuk,55169,2231458,40.45,0.0139
+2016,Middle East,Iraq,Other Iraq Crude,117369,4259170,36.29,0.0296
+2016,Middle East,Kuwait,Kuwait Blend,53185,2084772,39.2,0.0134
+2016,Middle East,Oman,Oman,1001,44536,44.48,3e-4
+2016,Middle East,Other Middle East Countries,Other Middle East Crude,1159,36157,31.2,3e-4
+2016,Middle East,Saudi Arabia,Arab Light,244144,10208831,41.81,0.0617
+2016,Middle East,Saudi Arabia,Arab Medium,2454,112012,45.65,6e-4
+2016,Middle East,Saudi Arabia,Other Saudi Arabia Crude,8980,396271,44.13,0.0023
+2016,Middle East,Saudi Arabia,Arab Heavy,9014,379479,42.1,0.0023
+2016,Middle East,Saudi Arabia,Berri (Extra Light),33694,1501261,44.56,0.0085
+2016,Middle East,Syria,Syria Light,6818,318761,46.75,0.0017000000000000001
+2016,Middle East,Yemen,Marib Light,1597,74158,46.44,4e-4
+2016,Other,Other Countries,Other crudes,1707,72855,42.68,4e-4
+2017,Africa,Algeria,Saharan Blend,105502,5781933,54.8,0.026099999999999998
+2017,Africa,Algeria,Other Algeria Crude,4696,256439,54.61,0.0012
+2017,Africa,Angola,Other Angola Crude,39017,2145314,54.98,0.0097
+2017,Africa,Cameroon,Cameroon Crude,16200,871679,53.81,0.004
+2017,Africa,Congo,Congo Crude,4757,254853,53.57,0.0012
+2017,Africa,Egypt,Medium/Light (30-40o),35983,1919957,53.36,0.0089
+2017,Africa,Gabon,Rabi/Rabi Kounga,3005,159225,52.98,7.000000000000001e-4
+2017,Africa,Gabon,Other Gabon Crude,3948,215913,54.69,0.001
+2017,Africa,Libya,Medium (30-40o),126616,6916368,54.62,0.031400000000000004
+2017,Africa,Libya,Heavy (<30o API),11297,584043,51.7,0.0028000000000000004
+2017,Africa,Libya,Light (>40o),66419,3645989,54.89,0.016399999999999998
+2017,Africa,Nigeria,Medium (<33o),101214,5719020,56.5,0.025099999999999997
+2017,Africa,Nigeria,Light (33-45o),143659,8034980,55.93,0.0356
+2017,Africa,Nigeria,Condensate (>45o),11019,582547,52.87,0.0027
+2017,Africa,Other African Countries,Other Africa Crude,46525,2543910,54.68,0.0115
+2017,Africa,Tunisia,Tunisia Crude,4282,227810,53.2,0.0011
+2017,America,Brazil,Brazil Crude,41092,2039662,49.64,0.0102
+2017,America,Canada,Canadian Heavy (<33° API),5957,301484,50.61,0.0015
+2017,America,Canada,Light Sweet (>30o API),11083,610545,55.09,0.0027
+2017,America,Colombia,Other Colombia Crude,8168,393986,48.23,0.002
+2017,America,Mexico,Olmeca,5161,270325,52.38,0.0013
+2017,America,Mexico,Isthmus,2002,113257,56.57,5e-4
+2017,America,Mexico,Maya,73218,3390949,46.31,0.0181
+2017,America,Other Latin America countries,Other Latin America Crude,2471,137664,55.72,6e-4
+2017,America,United States,Alaska,8045,452173,56.21,0.002
+2017,America,United States,Other US Crude,59256,3352113,56.57,0.0147
+2017,America,Venezuela,Medium (22-30o),6,303,50.5,0
+2017,America,Venezuela,Extra Heavy (<17o),16064,715177,44.52,0.004
+2017,Europe,Denmark,Denmark Crude,23351,1290960,55.28,0.0058
+2017,Europe,Norway,Statfjord,45139,2473875,54.81,0.011200000000000002
+2017,Europe,Norway,Ekofisk,69764,3899898,55.9,0.0173
+2017,Europe,Norway,Other Norway Crude,265251,14582555,54.98,0.06570000000000001
+2017,Europe,Norway,Oseberg,35592,1948143,54.74,0.0088
+2017,Europe,Norway,Gullfaks,44666,2498197,55.93,0.0111
+2017,Europe,Other European countries,Other Europe Crude,11793,588862,49.93,0.0029
+2017,Europe,United Kingdom,Flotta,33196,1778670,53.58,0.008199999999999999
+2017,Europe,United Kingdom,Forties,33921,1835790,54.12,0.0084
+2017,Europe,United Kingdom,Brent Blend,26656,1474994,55.33,0.0066
+2017,Europe,United Kingdom,Other UK Crude,78487,4276943,54.49,0.0194
+2017,FSU,Azerbaijan,Azerbaijan Crude,155515,8726108,56.11,0.0385
+2017,FSU,Kazakhstan,Kazakhstan Crude,291237,15693454,53.89,0.0721
+2017,FSU,Other FSU countries,Other FSU Crude,2921,154707,52.96,7.000000000000001e-4
+2017,FSU,Russian Federation,Other Russian Fed. Crude,483900,25722481,53.16,0.1198
+2017,FSU,Russian Federation,Urals,631582,33295502,52.72,0.1564
+2017,Middle East,Abu Dhabi,Murban,2093,115494,55.19,5e-4
+2017,Middle East,Iran,Other Iran Crude,14902,741024,49.73,0.0037
+2017,Middle East,Iran,Iranian Heavy,116546,5737673,49.23,0.028900000000000002
+2017,Middle East,Iran,Iranian Light,68520,3509608,51.22,0.017
+2017,Middle East,Iraq,Basrah Light,157800,7913173,50.15,0.0391
+2017,Middle East,Iraq,Kirkuk,57305,2837853,49.52,0.014199999999999999
+2017,Middle East,Iraq,Other Iraq Crude,105730,5193910,49.12,0.0262
+2017,Middle East,Kuwait,Kuwait Blend,62799,3135499,49.93,0.015600000000000001
+2017,Middle East,Saudi Arabia,Arab Light,207318,10913516,52.64,0.0513
+2017,Middle East,Saudi Arabia,Arab Medium,878,43378,49.41,2e-4
+2017,Middle East,Saudi Arabia,Other Saudi Arabia Crude,13959,763360,54.69,0.0034999999999999996
+2017,Middle East,Saudi Arabia,Arab Heavy,6615,338018,51.1,0.0016
+2017,Middle East,Saudi Arabia,Berri (Extra Light),32266,1717004,53.21,0.008
+2017,Middle East,Syria,Syria Light,1062,48723,45.88,3e-4
+2017,Middle East,Yemen,Marib Light,604,27896,46.19,1e-4
+2017,Other,Other Countries,Other crudes,210,10149,48.29,1e-4
+2018,Africa,Algeria,Saharan Blend,112327,8170610,72.74,0.027999999999999997
+2018,Africa,Algeria,Other Algeria Crude,3418,234726,68.67,9e-4
+2018,Africa,Angola,Cabinda,1371,82831,60.43,3e-4
+2018,Africa,Angola,Other Angola Crude,49851,3638906,73,0.0124
+2018,Africa,Cameroon,Cameroon Crude,11498,838658,72.94,0.0029
+2018,Africa,Congo,Congo Crude,1810,140258,77.51,5e-4
+2018,Africa,Egypt,Heavy (<30o API),33,2248,68.12,0
+2018,Africa,Egypt,Medium/Light (30-40o),26783,1929398,72.04,0.0067
+2018,Africa,Gabon,Rabi/Rabi Kounga,358,27055,75.57,1e-4
+2018,Africa,Gabon,Other Gabon Crude,3551,256008,72.1,9e-4
+2018,Africa,Libya,Medium (30-40o),140214,10041622,71.62,0.0349
+2018,Africa,Libya,Heavy (<30o API),12400,854990,68.95,0.0031
+2018,Africa,Libya,Light (>40o),83469,6075008,72.78,0.0208
+2018,Africa,Nigeria,Medium (<33o),107542,7964522,74.06,0.0268
+2018,Africa,Nigeria,Light (33-45o),190532,14198397,74.52,0.0475
+2018,Africa,Nigeria,Condensate (>45o),7009,504983,72.05,0.0017000000000000001
+2018,Africa,Other African Countries,Other Africa Crude,47972,3490405,72.76,0.012
+2018,Africa,Tunisia,Tunisia Crude,4377,309843,70.78,0.0011
+2018,America,Brazil,Brazil Crude,36226,2377925,65.64,0.009000000000000001
+2018,America,Canada,Canadian Heavy (<33° API),12376,839228,67.81,0.0031
+2018,America,Canada,Light Sweet (>30o API),23067,1664040,72.14,0.005699999999999999
+2018,America,Colombia,Other Colombia Crude,5026,331576,65.98,0.0013
+2018,America,Mexico,Isthmus,2034,137527,67.6,5e-4
+2018,America,Mexico,Maya,75977,4595882,60.49,0.0189
+2018,America,Other Latin America countries,Other Latin America Crude,724,46161,63.73,2e-4
+2018,America,United States,Alaska,6278,447334,71.25,0.0016
+2018,America,United States,Other US Crude,160456,11443686,71.32,0.04
+2018,America,Venezuela,Medium (22-30o),905,40192,44.41,2e-4
+2018,America,Venezuela,Heavy (17-22o),1340,87938,65.65,3e-4
+2018,America,Venezuela,Extra Heavy (<17o),10674,643132,60.25,0.0027
+2018,Europe,Denmark,Denmark Crude,17056,1243947,72.93,0.0042
+2018,Europe,Norway,Statfjord,35877,2569275,71.61,0.0089
+2018,Europe,Norway,Ekofisk,62015,4480162,72.24,0.0154
+2018,Europe,Norway,Other Norway Crude,242431,17349495,71.56,0.0604
+2018,Europe,Norway,Oseberg,25332,1849315,73,0.0063
+2018,Europe,Norway,Gullfaks,49328,3636027,73.71,0.0123
+2018,Europe,Other European countries,Other Europe Crude,11796,777549,65.92,0.0029
+2018,Europe,United Kingdom,Flotta,16066,1181392,73.53,0.004
+2018,Europe,United Kingdom,Forties,18552,1299818,70.06,0.0046
+2018,Europe,United Kingdom,Brent Blend,24021,1718119,71.52,0.006
+2018,Europe,United Kingdom,Other UK Crude,121333,8616200,71.01,0.0302
+2018,FSU,Azerbaijan,Azerbaijan Crude,161364,11812008,73.2,0.04019999999999999
+2018,FSU,Kazakhstan,Kazakhstan Crude,278408,19663213,70.63,0.0694
+2018,FSU,Other FSU countries,Other FSU Crude,2095,151283,72.2,5e-4
+2018,FSU,Russian Federation,Other Russian Fed. Crude,451336,31722611,70.29,0.1124
+2018,FSU,Russian Federation,Urals,588094,40712012,69.23,0.1465
+2018,Middle East,Abu Dhabi,Murban,920,69073,75.09,2e-4
+2018,Middle East,Iran,Other Iran Crude,14445,1000575,69.27,0.0036
+2018,Middle East,Iran,Iranian Heavy,82651,5431562,65.72,0.0206
+2018,Middle East,Iran,Iranian Light,38190,2586552,67.73,0.0095
+2018,Middle East,Iraq,Basrah Light,155061,10437967,67.32,0.038599999999999995
+2018,Middle East,Iraq,Kirkuk,38834,2593744,66.79,0.0097
+2018,Middle East,Iraq,Other Iraq Crude,113042,7518466,66.51,0.0282
+2018,Middle East,Kuwait,Kuwait Blend,36021,2441712,67.79,0.009000000000000001
+2018,Middle East,Other Middle East Countries,Other Middle East Crude,2,105,52.5,0
+2018,Middle East,Saudi Arabia,Arab Light,217981,15519873,71.2,0.054299999999999994
+2018,Middle East,Saudi Arabia,Arab Medium,1747,106576,61.02,4e-4
+2018,Middle East,Saudi Arabia,Other Saudi Arabia Crude,19251,1379516,71.66,0.0048
+2018,Middle East,Saudi Arabia,Arab Heavy,22974,1592173,69.3,0.005699999999999999
+2018,Middle East,Saudi Arabia,Berri (Extra Light),27127,1917810,70.7,0.0068000000000000005
+2018,Middle East,Syria,Syria Light,1046,59033,56.44,3e-4
+2019,Africa,Algeria,Saharan Blend,124283,8084705,65.05,0.030899999999999997
+2019,Africa,Algeria,Other Algeria Crude,11833,793529,67.06,0.0029
+2019,Africa,Angola,Cabinda,6679,443286,66.37,0.0017000000000000001
+2019,Africa,Angola,Other Angola Crude,45559,3040681,66.74,0.0113
+2019,Africa,Cameroon,Cameroon Crude,12601,825637,65.52,0.0031
+2019,Africa,Congo,Congo Crude,2775,163375,58.87,7.000000000000001e-4
+2019,Africa,Congo (DR),Congo (DR) Crude,1852,114306,61.72,5e-4
+2019,Africa,Egypt,Medium/Light (30-40o),34521,2228398,64.55,0.0086
+2019,Africa,Gabon,Rabi/Rabi Kounga,621,40011,64.43,2e-4
+2019,Africa,Gabon,Other Gabon Crude,5252,334399,63.67,0.0013
+2019,Africa,Libya,Medium (30-40o),154982,10172604,65.64,0.038599999999999995
+2019,Africa,Libya,Heavy (<30o API),13017,828981,63.69,0.0032
+2019,Africa,Libya,Light (>40o),78861,5099037,64.66,0.0196
+2019,Africa,Nigeria,Medium (<33o),125516,8470187,67.48,0.031200000000000002
+2019,Africa,Nigeria,Light (33-45o),176646,11991761,67.89,0.044000000000000004
+2019,Africa,Nigeria,Condensate (>45o),7010,452336,64.52,0.0017000000000000001
+2019,Africa,Other African Countries,Other Africa Crude,36414,2381774,65.41,0.0091
+2019,Africa,Tunisia,Tunisia Crude,3939,253107,64.26,0.001
+2019,America,Argentina,Argentina Crude,935,57866,61.91,2e-4
+2019,America,Brazil,Brazil Crude,32650,1964776,60.18,0.008100000000000001
+2019,America,Canada,Canadian Heavy (<33° API),15574,989755,63.55,0.0039000000000000003
+2019,America,Canada,Light Sweet (>30o API),15691,1011389,64.46,0.0039000000000000003
+2019,America,Colombia,Other Colombia Crude,8808,535201,60.76,0.0022
+2019,America,Mexico,Maya,69460,3836795,55.24,0.0173
+2019,America,Other Latin America countries,Other Latin America Crude,773,46339,59.93,2e-4
+2019,America,United States,Alaska,1240,79069,63.77,3e-4
+2019,America,United States,Other US Crude,282570,18275143,64.67,0.0703
+2019,America,Venezuela,Medium (22-30o),1913,98206,51.34,5e-4
+2019,America,Venezuela,Heavy (17-22o),3613,184296,51.02,9e-4
+2019,America,Venezuela,Extra Heavy (<17o),28398,1459957,51.41,0.0070999999999999995
+2019,Europe,Denmark,Denmark Crude,12587,829741,65.92,0.0031
+2019,Europe,Norway,Statfjord,21416,1395401,65.16,0.0053
+2019,Europe,Norway,Ekofisk,62915,4105393,65.25,0.015700000000000002
+2019,Europe,Norway,Other Norway Crude,235938,15444432,65.46,0.0587
+2019,Europe,Norway,Oseberg,31852,2118696,66.52,0.0079
+2019,Europe,Norway,Gullfaks,44038,2890402,65.63,0.011000000000000001
+2019,Europe,Other European countries,Other Europe Crude,8711,508225,58.34,0.0022
+2019,Europe,United Kingdom,Flotta,18374,1179207,64.18,0.0046
+2019,Europe,United Kingdom,Forties,16186,1050339,64.89,0.004
+2019,Europe,United Kingdom,Brent Blend,26946,1769238,65.66,0.0067
+2019,Europe,United Kingdom,Other UK Crude,126615,8330772,65.8,0.0315
+2019,FSU,Azerbaijan,Azerbaijan Crude,163506,11104764,67.92,0.0407
+2019,FSU,Kazakhstan,Kazakhstan Crude,292236,18452405,63.14,0.0727
+2019,FSU,Other FSU countries,Other FSU Crude,21909,1438688,65.67,0.0055000000000000005
+2019,FSU,Russian Federation,Other Russian Fed. Crude,391041,24994646,63.92,0.0973
+2019,FSU,Russian Federation,Urals,578878,36688385,63.38,0.14400000000000002
+2019,FSU,Ukraine,Ukraine Crude,581,38698,66.62,1e-4
+2019,Middle East,Iraq,Basrah Light,151686,9321935,61.46,0.0377
+2019,Middle East,Iraq,Kirkuk,54928,3373090,61.41,0.0137
+2019,Middle East,Iraq,Other Iraq Crude,127004,7715522,60.75,0.0316
+2019,Middle East,Kuwait,Kuwait Blend,38515,2394222,62.16,0.0096
+2019,Middle East,Saudi Arabia,Arab Light,208988,13374621,64,0.052000000000000005
+2019,Middle East,Saudi Arabia,Arab Medium,3288,203024,61.75,8e-4
+2019,Middle East,Saudi Arabia,Other Saudi Arabia Crude,7889,506672,64.22,0.002
+2019,Middle East,Saudi Arabia,Arab Heavy,42905,2679988,62.46,0.010700000000000001
+2019,Middle East,Saudi Arabia,Berri (Extra Light),24759,1631205,65.88,0.0062
+2019,Middle East,Syria,Syria Light,107,6765,63.22,0
+2019,Middle East,Yemen,Other Yemen Crude,1425,94339,66.19,4e-4
